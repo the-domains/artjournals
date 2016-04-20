@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Art Journals]]></title>
         <description><![CDATA[Art Journals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artjournals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 18:07:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 18:24:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artjournals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.100layercake.com/blog/wp-content/uploads/2011/02/100lc_stripeandfield4.jpg">]]></description>
-            <link>undefinedb0f3c082-b1d4-482a-bfb1-828fb053e687/index.html</link>
+            <link>http://www.100layercake.com/blog/2011/02/18/stripe-and-field/</link>
             <guid isPermaLink="false">b0f3c082-b1d4-482a-bfb1-828fb053e687</guid>
-            <pubDate>Wed, 20 Apr 2016 18:07:25 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 18:23:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
