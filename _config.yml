@@ -1,0 +1,28 @@
+name: artjournals
+favicon: null
+layout_spectrum: 0.8101564806420356
+typography_spectrum: 0.09180797403678298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.32055640779435635
+  lightness: 0.38637249963358045
+  saturation: 0.2995763362850994
+  rhythmicContrast: 0.45808048523031175
+purpose: []
